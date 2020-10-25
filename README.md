@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-Challenge
 
 ## This challenge required the following:
 1. Create a database
